@@ -22,5 +22,5 @@ s.requires_arc = true
 s.source_files = 'Segment-Taplytics/Classes/**/*'
 
 s.dependency 'Analytics', '~> 3.0'
-s.dependency 'Taplytics', '~> 2.15.5'
+s.dependency 'Taplytics', '~> 2.23.6'
 end
